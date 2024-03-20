@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anton\\OneDrive\\Desktop\\C#\\Attestation\\Attestation\\Task\\task.csproj": {}
+    "C:\\Users\\anton\\OneDrive\\Desktop\\C#\\Attestation\\Attestation\\task\\task.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anton\\OneDrive\\Desktop\\C#\\Attestation\\Attestation\\Task\\task.csproj": {
+    "C:\\Users\\anton\\OneDrive\\Desktop\\C#\\Attestation\\Attestation\\task\\task.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anton\\OneDrive\\Desktop\\C#\\Attestation\\Attestation\\Task\\task.csproj",
+        "projectUniqueName": "C:\\Users\\anton\\OneDrive\\Desktop\\C#\\Attestation\\Attestation\\task\\task.csproj",
         "projectName": "task",
-        "projectPath": "C:\\Users\\anton\\OneDrive\\Desktop\\C#\\Attestation\\Attestation\\Task\\task.csproj",
+        "projectPath": "C:\\Users\\anton\\OneDrive\\Desktop\\C#\\Attestation\\Attestation\\task\\task.csproj",
         "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anton\\OneDrive\\Desktop\\C#\\Attestation\\Attestation\\Task\\obj\\",
+        "outputPath": "C:\\Users\\anton\\OneDrive\\Desktop\\C#\\Attestation\\Attestation\\task\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anton\\AppData\\Roaming\\NuGet\\NuGet.Config"
